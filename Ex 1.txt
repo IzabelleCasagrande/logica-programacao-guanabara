@@ -1,10 +1,13 @@
-Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
-
-
+Algoritmo "Exercicio 1"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Gustavo Guanabara
+// Descrição   : Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
+// Autor(a)    : Izabelle
+// Data atual  : 25/02/2026
 Var
-
+   //Não foram utilizadas as variaveis neste exercicio.
 Inicio
 
-	Escreva("Olá,Mundo!")
-
-FimAlgoritmo
+   Escreva ("Olá, Mundo!")
+   
+Fimalgoritmo

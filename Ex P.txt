@@ -1,0 +1,8 @@
+Enunciado
+
+
+Var
+
+Inicio
+
+FimAlgoritmo
