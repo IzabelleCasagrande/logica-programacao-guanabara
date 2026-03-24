@@ -32,7 +32,7 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | 026 | Comparando Números | `ex026_maior_menor.alg` | ✅ |
 | 027 | Média com Recuperação | `ex027_media_recuperacao.alg` | ✅ |
 | 028 | Classificação de Terrenos | `ex028_classificacao_terreno.alg` | ✅ |
-| 029 | Reajuste por tempo de casa | `ex029_reajuste_tempo.alg` | ⏳ |
+| 029 | Reajuste por tempo de casa | `ex029_reajuste_tempo.alg` | ✅  |
 | 030 | **[DESAFIO]** Triângulos | `ex030_tipo_triangulo.alg` | ✅ |
 | 031 | **[DESAFIO]** Jokenpô | `ex031_jokenpo.alg` |✅ |
 | 032 | **[DESAFIO]** Adivinhação | `ex032_adivinhacao.alg` | ⏳ |
