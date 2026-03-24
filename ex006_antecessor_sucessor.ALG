@@ -22,5 +22,5 @@ Inicio
    EscrevaL("O Sucessor de  ",n1," é",sucessor)
    EscrevaL("E o Antecessor de ",n1," é",antecessor)
    EscrevaL("-------------------------------------------")
-   
+   //Mesmo problema do outro exercicio, nao é possivel fazer a validação da variavel.
 Fimalgoritmo
