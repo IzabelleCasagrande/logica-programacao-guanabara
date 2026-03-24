@@ -9,7 +9,7 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | 003 | Salário de Funcionário | `ex003_salario_funcionario.alg` | ✅ |
 | 004 | Somador de Números | `ex004_somador.alg` | ✅ |
 | 005 | Média Aritmética | `ex005_media_notas.alg` | ✅ |
-| 006 | Antecessor e Sucessor | `ex006_antecessor_sucessor.alg` | 🔄 |
+| 006 | Antecessor e Sucessor | `ex006_antecessor_sucessor.alg` | ✅ |
 | 007 | Dobro e Terça Parte | `ex007_dobro_terca.alg` | 🔄 |
 | 008 | Conversor de Medidas | `ex008_conversor_medidas.alg` | 🔄 |
 | 009 | Conversor de Moedas | `ex009_conversor_moedas.alg` | 🔄 |
