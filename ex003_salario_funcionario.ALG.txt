@@ -1,0 +1,28 @@
+Algoritmo "Exercicio 003"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Gustavo Guanabara
+// Descrição   : Crie um programa que leia o nome e o salário de um funcionário,
+//mostrando no final uma mensagem. Ex: Nome do Funcionário: Maria do Carmo
+//Salário: 1850,45 O funcionário Maria do Carmo tem um salário de R$1850,45
+//em Junho.
+// Autor(a)    : Izabelle
+// Data atual  : 25/02/2026
+Var
+
+   nome,mes:caractere
+   salario:real
+
+Inicio
+
+   Escreva ("Olá funcionário, seja bem vindo! Antes de começarmos, me informe seu nome: ")
+   Leia (nome)
+   Escreva ("Certo, ",nome," agora me informe seu salário: ")
+   Leia (salario)
+   Escreva ("Informe o mês de referência: ")
+   Leia (mes)
+   Escreva ("Nome do funcionário: ", nome)
+   Escreva (" Salario: ", salario)
+   Escreva (" O funcionário ", nome, " tem um salário de ",salario," em ",mes," .")
+
+
+Fimalgoritmo
