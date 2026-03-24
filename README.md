@@ -11,7 +11,7 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | 005 | Média Aritmética | `ex005_media_notas.alg` | ✅ |
 | 006 | Antecessor e Sucessor | `ex006_antecessor_sucessor.alg` | ✅ |
 | 007 | Dobro e Terça Parte | `ex007_dobro_terca.alg` | ✅ |
-| 008 | Conversor de Medidas | `ex008_conversor_medidas.alg` | 🔄 |
+| 008 | Conversor de Medidas | `ex008_conversor_medidas.alg` | ✅ |
 | 009 | Conversor de Moedas | `ex009_conversor_moedas.alg` | 🔄 |
 | 010 | Cálculo de Tinta | `ex010_calculo_tinta.alg` | 🔄 |
 | 011 | Cálculo de Delta | `ex011_calculo_delta.alg` | ✅ |
