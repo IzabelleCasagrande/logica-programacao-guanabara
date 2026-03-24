@@ -24,10 +24,10 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | 018 | Verificador de Voto | `ex018_voto_obrigatorio.alg` | ✅ |
 | 019 | Média de Notas (A/R) | `ex019_situacao_aluno.alg` | ✅ |
 | 020 | Par ou Ímpar | `ex020_par_ou_impar.alg` | ✅ |
-| 021 | Ano Bissexto | `ex021_ano_bissexto.alg` |🔄 |
-| 022 | Alistamento Militar | `ex022_alistamento_militar.alg` | 🔄 |
-| 023 | Promoção Dia das Mulheres | `ex023_promocao_mulheres.alg` | 🔄 |
-| 024 | Preço da Passagem (km) | `ex024_preco_passagem.alg` | 🔄 |
+| 021 | Ano Bissexto | `ex021_ano_bissexto.alg` |✅ |
+| 022 | Alistamento Militar | `ex022_alistamento_militar.alg` | ✅ |
+| 023 | Promoção Dia das Mulheres | `ex023_promocao_mulheres.alg` | ✅ |
+| 024 | Preço da Passagem (km) | `ex024_preco_passagem.alg` | ✅ |
 | 025 | **[DESAFIO]** Triângulo | `ex025_desafio_triangulo.alg` | 🔄 |
 | 026 | Comparando Números | `ex026_maior_menor.alg` | ✅ |
 | 027 | Média com Recuperação | `ex027_media_recuperacao.alg` | ✅ |
