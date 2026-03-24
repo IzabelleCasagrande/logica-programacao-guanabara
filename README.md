@@ -17,13 +17,13 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | 011 | Cálculo de Delta | `ex011_calculo_delta.alg` | ✅ |
 | 012 | Preço com 5% de Desconto | `ex012_desconto_5.alg` | ✅ |
 | 013 | Aumento Salarial (+15%) | `ex013_aumento_salarial.alg` | ✅ |
-| 014 | Locadora de Carros | `ex014_locadora_carros.alg` | 🔄 |
-| 015 | Dias trabalhados | `ex015_salario_dias.alg` | 🔄 |
-| 016 | **[DESAFIO]** Vida de fumante | `ex016_desafio_fumante.alg` | ✅ |
-| 017 | Multa de Velocidade | `ex017_multa_velocidade.alg` | ✅ |
-| 018 | Verificador de Voto | `ex018_voto_obrigatorio.alg` | ✅ |
-| 019 | Média de Notas (A/R) | `ex019_situacao_aluno.alg` | ✅ |
-| 020 | Par ou Ímpar | `ex020_par_ou_impar.alg` | ✅ |
+| 014 | Locadora de Carros | `ex014_locadora_carros.alg` | ✅ |
+| 015 | Dias trabalhados | `ex015_salario_dias.alg` | ✅ |
+| 016 | **[DESAFIO]** Vida de fumante | `ex016_desafio_fumante.alg` | 🔄 |
+| 017 | Multa de Velocidade | `ex017_multa_velocidade.alg` | 🔄 |
+| 018 | Verificador de Voto | `ex018_voto_obrigatorio.alg` | 🔄 |
+| 019 | Média de Notas (A/R) | `ex019_situacao_aluno.alg` | 🔄 |
+| 020 | Par ou Ímpar | `ex020_par_ou_impar.alg` | 🔄 |
 | 021 | Ano Bissexto | `ex021_ano_bissexto.alg` | ✅ |
 | 022 | Alistamento Militar | `ex022_alistamento_militar.alg` | ✅ |
 | 023 | Promoção Dia das Mulheres | `ex023_promocao_mulheres.alg` | ✅ |
