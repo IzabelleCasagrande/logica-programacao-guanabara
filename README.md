@@ -19,7 +19,7 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | 013 | Aumento Salarial (+15%) | `ex013_aumento_salarial.alg` | ✅ |
 | 014 | Locadora de Carros | `ex014_locadora_carros.alg` | ✅ |
 | 015 | Dias trabalhados | `ex015_salario_dias.alg` | ✅ |
-| 016 | **[DESAFIO]** Vida de fumante | `ex016_desafio_fumante.alg` | 🔄 |
+| 016 | **[DESAFIO]** Vida de fumante | `ex016_desafio_fumante.alg` | ✅ |
 | 017 | Multa de Velocidade | `ex017_multa_velocidade.alg` | 🔄 |
 | 018 | Verificador de Voto | `ex018_voto_obrigatorio.alg` | 🔄 |
 | 019 | Média de Notas (A/R) | `ex019_situacao_aluno.alg` | 🔄 |
