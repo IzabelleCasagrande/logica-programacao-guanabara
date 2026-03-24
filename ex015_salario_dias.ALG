@@ -1,21 +1,29 @@
-Algoritmo "Exercicio 15"
+Algoritmo "Exercicio 015"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Gustavo Guanabara
 // Descrição   : Crie um programa que leia o número de dias trabalhados em um mês e mostre o
 //salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25
 //por hora trabalhada.
-// Autor(a)    : Izabelle
-// Data atual  : 05/03/2026
+// Autor(a)    : Izabelle Casagrande
+// Data atual  : 24/03/2026
 Var
-   // Seção de Declarações das variáveis
-   dias,diaria,salario:real
+
+   dias,diaria,salario,hora:real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   EscrevaL("------------------------------------------")
+   EscrevaL("             CASA DA PRODUÇÃO             ")
+   EscrevaL("------------------------------------------")
    Escreva("Informe o numero de dias trabalhados pelo funcionàrio: ")
    Leia(dias)
-   diaria<-(8*25)
+   //Loop para impedir que o usuario use um numero diferente de .
+   Enquanto (dias<=0) faca
+      EscrevaL("A quantidade de dias tem que ser superior a 0.")
+      Leia(dias)
+   FimEnquanto
+   hora<-25
+   diaria<-(8*hora)
    salario<-(diaria*dias)
-   Escreva("O salario do funcionário para ",dias," dias trabalhados é: R$",salario)
+   Escreva("O salario do funcionário para ",dias," dias trabalhados é: R$",salario:5:2)
 
 Fimalgoritmo
