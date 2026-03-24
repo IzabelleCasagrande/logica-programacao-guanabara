@@ -24,17 +24,17 @@ Inicio
    FimEnquanto
    Escreva("Informe o ano de alistamento do candidato: ")
    Leia(ano)
-      Enquanto (ano<=0) faca
-      EscrevaL("Informe uma data de nascimento válida (yyyy): ")
+   Enquanto (ano<=0) faca
+      EscrevaL("Informe uma data de alistamento válida (yyyy): ")
       Leia(ano)
    FimEnquanto
    idade<-(ano-nascimento)
-   Se (idade<18) entao
-      alistamento<-(18-idade)
-      Escreva("O candidato é menor de idade e ainda faltam ",alistamento," anos para se alistar.")
-   senao
+   Se (idade>=18) entao
       alistamento<-(idade-18)
       Escreva("O candidato é maior de idade e ja se passaram ",alistamento," anos do alistamento.")
-   FimSe
+   senao
+      alistamento<-(18-idade)
+      Escreva("O candidato é menor de idade e ainda faltam ",alistamento," anos para se alistar.")
+      FimSe
 
 Fimalgoritmo
