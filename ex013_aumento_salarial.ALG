@@ -13,7 +13,7 @@ Inicio
 
    EscrevaL("--------------------------------------")
    EscrevaL("-----------CASAGRANDE INC-------------")
-
+   EscrevaL("--------------------------------------")
    Escreva("Informe o salário do funcionário: R$")
    Leia(salario)
    // Validação de dados em loop, para garantir que o salario não seja menor que 0.
