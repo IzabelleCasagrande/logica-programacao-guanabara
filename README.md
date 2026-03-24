@@ -6,7 +6,7 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | :--- | :--- | :--- | :---: |
 | 001 | Olá, Mundo! | `ex001_ola_mundo.alg` | ✅ |
 | 002 | Boas-vindas | `ex002_boas_vindas.alg` | ✅ |
-| 003 | Salário de Funcionário | `ex003_salario_funcionario.alg` | 🔄 |
+| 003 | Salário de Funcionário | `ex003_salario_funcionario.alg` | ✅ |
 | 004 | Somador de Números | `ex004_somador.alg` | 🔄 |
 | 005 | Média Aritmética | `ex005_media_notas.alg` | 🔄 |
 | 006 | Antecessor e Sucessor | `ex006_antecessor_sucessor.alg` | 🔄 |
