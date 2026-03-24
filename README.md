@@ -14,11 +14,11 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | 008 | Conversor de Medidas | `ex008_conversor_medidas.alg` | ✅ |
 | 009 | Conversor de Moedas | `ex009_conversor_moedas.alg` | ✅ |
 | 010 | Cálculo de Tinta | `ex010_calculo_tinta.alg` | ✅ |
-| 011 | Cálculo de Delta | `ex011_calculo_delta.alg` | ✅ |
-| 012 | Preço com 5% de Desconto | `ex012_desconto_5.alg` | ✅ |
-| 013 | Aumento Salarial (+15%) | `ex013_aumento_salarial.alg` | ✅ |
-| 014 | Locadora de Carros | `ex014_locadora_carros.alg` | ✅ |
-| 015 | Dias trabalhados | `ex015_salario_dias.alg` | ✅ |
+| 011 | Cálculo de Delta | `ex011_calculo_delta.alg` | 🔄 |
+| 012 | Preço com 5% de Desconto | `ex012_desconto_5.alg` | 🔄 |
+| 013 | Aumento Salarial (+15%) | `ex013_aumento_salarial.alg` | 🔄 |
+| 014 | Locadora de Carros | `ex014_locadora_carros.alg` | 🔄 |
+| 015 | Dias trabalhados | `ex015_salario_dias.alg` | 🔄 |
 | 016 | **[DESAFIO]** Vida de fumante | `ex016_desafio_fumante.alg` | ✅ |
 | 017 | Multa de Velocidade | `ex017_multa_velocidade.alg` | ✅ |
 | 018 | Verificador de Voto | `ex018_voto_obrigatorio.alg` | ✅ |
