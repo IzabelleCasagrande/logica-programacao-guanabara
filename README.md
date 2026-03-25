@@ -29,28 +29,28 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | 023 | Promoção Dia das Mulheres | `ex023_promocao_mulheres.alg` | ✅ |
 | 024 | Preço da Passagem (km) | `ex024_preco_passagem.alg` | ✅ |
 | 025 | **[DESAFIO]** Triângulo | `ex025_desafio_triangulo.alg` | 🔄 |
-| 026 | Comparando Números | `ex026_maior_menor.alg` | ✅ |
-| 027 | Média com Recuperação | `ex027_media_recuperacao.alg` | ✅ |
-| 028 | Classificação de Terrenos | `ex028_classificacao_terreno.alg` | ✅ |
-| 029 | Reajuste por tempo de casa | `ex029_reajuste_tempo.alg` | ✅  |
-| 030 | **[DESAFIO]** Triângulos | `ex030_tipo_triangulo.alg` | ✅ |
-| 031 | **[DESAFIO]** Jokenpô | `ex031_jokenpo.alg` |✅ |
+| 026 | Comparando Números | `ex026_maior_menor.alg` | 🔄 |
+| 027 | Média com Recuperação | `ex027_media_recuperacao.alg` | 🔄 |
+| 028 | Classificação de Terrenos | `ex028_classificacao_terreno.alg` | 🔄 |
+| 029 | Reajuste por tempo de casa | `ex029_reajuste_tempo.alg` | 🔄  |
+| 030 | **[DESAFIO]** Triângulos | `ex030_tipo_triangulo.alg` | 🔄 |
+| 031 | **[DESAFIO]** Jokenpô | `ex031_jokenpo.alg` | 🔄|
 | 032 | **[DESAFIO]** Adivinhação | `ex032_adivinhacao.alg` | ⏳ |
-| 033 | Empréstimo Bancário | `ex033_aprovacao_emprestimo.alg` | ✅ |
-| 034 | Cálculo de IMC | `ex034_calculo_imc.alg` | ✅|
-| 035 | Aluguel Popular vs Luxo | `ex035_aluguel_carros_v2.alg` | ✅ |
-| 036 | Pontos Vida Saudável | `ex036_programa_pontos.alg` | ✅ |
-| 037 | Reajuste por Gênero | `ex037_reajuste_genero.alg` | ✅ |
-| 038 | Contagem 6 a 11 | `ex038_contagem_6_11.alg` | ✅ |
-| 039 | Contagem regressiva 10 a 3 | `ex039_contagem_10_3.alg` | ✅ |
-| 040 | Salto de 3 em 3 | `ex040_contagem_salto_3.alg` | ✅ |
-| 041 | Regressivo de 5 em 5 | `ex041_contagem_regressiva_5.alg` | ✅ |
-| 042 | Contagem Personalizada | `ex042_contagem_customizada.alg` | ✅ |
-| 043 | Divisíveis por 4 | `ex043_divisiveis_4.alg` | ✅ |
-| 044 | Somador customizado | `ex044_somador_custom.alg` | ✅ |
-| 045 | **[DESAFIO]** Contagem inteligente | `ex045_contagem_inteligente.alg` | ✅ |
-| 046 | Somatório 6 a 100 | `ex046_soma_6_100.alg` | ✅ |
-| 047 | Somatório regressivo | `ex047_soma_regressiva.alg` | ✅ |
+| 033 | Empréstimo Bancário | `ex033_aprovacao_emprestimo.alg` | 🔄 |
+| 034 | Cálculo de IMC | `ex034_calculo_imc.alg` | 🔄|
+| 035 | Aluguel Popular vs Luxo | `ex035_aluguel_carros_v2.alg` | 🔄 |
+| 036 | Pontos Vida Saudável | `ex036_programa_pontos.alg` | 🔄 |
+| 037 | Reajuste por Gênero | `ex037_reajuste_genero.alg` | 🔄 |
+| 038 | Contagem 6 a 11 | `ex038_contagem_6_11.alg` | 🔄 |
+| 039 | Contagem regressiva 10 a 3 | `ex039_contagem_10_3.alg` | 🔄 |
+| 040 | Salto de 3 em 3 | `ex040_contagem_salto_3.alg` | 🔄 |
+| 041 | Regressivo de 5 em 5 | `ex041_contagem_regressiva_5.alg` | 🔄 |
+| 042 | Contagem Personalizada | `ex042_contagem_customizada.alg` | 🔄 |
+| 043 | Divisíveis por 4 | `ex043_divisiveis_4.alg` | 🔄 |
+| 044 | Somador customizado | `ex044_somador_custom.alg` | 🔄 |
+| 045 | **[DESAFIO]** Contagem inteligente | `ex045_contagem_inteligente.alg` | 🔄 |
+| 046 | Somatório 6 a 100 | `ex046_soma_6_100.alg` | 🔄 |
+| 047 | Somatório regressivo | `ex047_soma_regressiva.alg` | 🔄 |
 | 048 | Soma de 7 números | `ex048_soma_7_numeros.alg` | ✅ |
 | 049 | Par ou Ímpar no grupo | `ex049_contagem_par_impar.alg` | ⏳ |
 | 050 | Sorteio de 20 números | `ex050_sorteio_numeros.alg` | ⏳ |
