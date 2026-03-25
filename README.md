@@ -52,7 +52,7 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | 046 | Somatório 6 a 100 | `ex046_soma_6_100.alg` | 🔄 |
 | 047 | Somatório regressivo | `ex047_soma_regressiva.alg` | 🔄 |
 | 048 | Soma de 7 números | `ex048_soma_7_numeros.alg` | ✅ |
-| 049 | Par ou Ímpar no grupo | `ex049_contagem_par_impar.alg` | ⏳ |
+| 049 | Par ou Ímpar no grupo | `ex049_contagem_par_impar.alg` | ✅ |
 | 050 | Sorteio de 20 números | `ex050_sorteio_numeros.alg` | ⏳ |
 | 051 | Maior e menor preço | `ex051_maior_menor_preco.alg` | ⏳ |
 | 052 | Média de idade | `ex052_media_idade_grupo.alg` | ⏳ |
