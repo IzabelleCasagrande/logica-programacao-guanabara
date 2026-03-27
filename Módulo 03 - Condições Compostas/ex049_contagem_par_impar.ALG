@@ -14,6 +14,7 @@ Inicio
    EscrevaL("---------------------------------------------------")
    pares<-0
    impares<-0
+   //Feito anteriormente com a estrutura enquanto e atualizado para limpar o código.
    Para contador <-1 ate 6 passo 1 faça
       EscrevaL("Informe o ",contador," º numero: ")
       Leia(numero)
