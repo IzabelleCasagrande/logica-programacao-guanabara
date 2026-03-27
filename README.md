@@ -54,7 +54,7 @@ Minha jornada nos fundamentos da programação! 🚀 Repositório dedicado à re
 | 048 | Soma de 7 números | `ex048_soma_7_numeros.alg` | ✅ |
 | 049 | Par ou Ímpar no grupo | `ex049_contagem_par_impar.alg` | ✅ |
 | 050 | Sorteio de 20 números | `ex050_sorteio_numeros.alg` | ⏳ |
-| 051 | Maior e menor preço | `ex051_maior_menor_preco.alg` | ⏳ |
+| 051 | Maior e menor preço | `ex051_maior_menor_preco.alg` | ✅ |
 | 052 | Média de idade | `ex052_media_idade_grupo.alg` | ⏳ |
 | 053 | Cadastro Sexo/Idade | `ex053_cadastro_grupo.alg` | ⏳ |
 | 054 | Peso e Altura (7 pessoas) | `ex054_analise_fisica.alg` | ⏳ |
